@@ -50,7 +50,7 @@ st.title('Proyek Analisis Data: Air Quality')
 st.caption("Muhammad Aliif Nurrahman | aliifnrhmn@gmail.com")
 
 st.header('Gambaran')
-st.write('Dataset yang digunakan pada dashboard ini adalah dataset kualitas udara yang dapat diakses pada [tautan berikut](https://github.com/marceloreis/HTI/tree/master/PRSA_Data_20130301-20170228). Dataset ini memiliki 420.768 baris data dari sepuluh dokumen CSV yang telah dibersihkan dan digabungkan. Proses pembersihan dataset dan _exploratory data analysis_ pada dataset ini dapat diakses pada [notebook berikut](https://github.com/aliifnrhmn/proyek-analisis-data/blob/main/Proyek%20Analisis%20Data.ipynb).')
+st.write('Dataset yang digunakan pada dashboard ini adalah dataset kualitas udara yang dapat diakses pada [tautan berikut](https://github.com/marceloreis/HTI/tree/master/PRSA_Data_20130301-20170228). Dataset ini memiliki 420.768 baris data dari dua belas dokumen CSV yang telah dibersihkan dan digabungkan. Proses pembersihan dataset dan _exploratory data analysis_ pada dataset ini dapat diakses pada [notebook berikut](https://github.com/aliifnrhmn/analisis-data-dicoding/blob/main/notebook.ipynb).')
 st.write("Dataset kualitas udara ini memiliki tujuh belas kolom yang dapat dilihat contoh data teratasnya sebagai berikut:")
 st.write(all_df.head(10))
 
